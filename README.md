@@ -43,8 +43,8 @@ single center crop (224x224) validation error rate(%)
 | :------:   | :---: |
 | ResNet-164  | 4.68 |
 
-### Training Curve
-The following curve is ResNet-v2 trainined on imagenet-1k, all the training detail you can found [here](./log), which include gpu information, lr schedular, batch-size etc, and you can also see the training speed with the corresponding logs.   
+### Training Curve（使用此文件画出训练曲线）
+The following curve is ResNet-v2 trainined on imagenet-1k, all the training detail you can found [here](./log), which include gpu information, lr schedular, batch-size etc, and you can also see the training speed with the corresponding logs.   
 
 <div align="left">
   <img src="./log/training-curve.png"/>
